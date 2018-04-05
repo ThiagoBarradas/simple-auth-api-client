@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Authors>Thiago Barradas</Authors>
+    <Company>Elephee</Company>
+    <Product>SimpleAuth.Api.Client</Product>
+    <Description>Client for SimpleAuth.Api (implements by https://github.com/ThiagoBarradas/simple-auth-api)</Description>
+    <Copyright>2017</Copyright>
+    <RepositoryUrl>https://github.com/ThiagoBarradas/ipinfo-api-client</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ThiagoBarradas/simple-auth-api-client</PackageProjectUrl>
+    <PackageIconUrl>http://www.elephee.com/images/elephee-icon.png</PackageIconUrl>
+    <PackageTags>Auth Login Simple</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IpInfo.Api.Client" Version="1.0.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="PackUtils" Version="1.0.19" />
+    <PackageReference Include="RestSharp" Version="106.2.1" />
+    <PackageReference Include="UAUtil" Version="1.0.56" />
+  </ItemGroup>
+
+</Project>
