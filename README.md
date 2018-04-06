@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/57sdg29v556oa3k4/branch/master?svg=true)](https://ci.appveyor.com/project/ThiagoBarradas/simple-auth-api-client/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/57pkygxx3adfie0j?svg=true)](https://ci.appveyor.com/project/ThiagoBarradas/simple-auth-api-client)
 [![codecov](https://codecov.io/gh/ThiagoBarradas/simple-auth-api-client/branch/master/graph/badge.svg)](https://codecov.io/gh/ThiagoBarradas/simple-auth-api-client)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/SimpleAuth.Api.Client.svg)](https://www.nuget.org/packages/SimpleAuth.Api.Client/)
 [![NuGet Version](https://img.shields.io/nuget/v/SimpleAuth.Api.Client.svg)](https://www.nuget.org/packages/SimpleAuth.Api.Client/)
